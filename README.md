@@ -57,7 +57,7 @@ WordPress日本語版 3.4～3.5.1
 * 2010.10.17　comment.phpが別のテーマのものだったという致命的なミスのため、データ差し替え。その他CSSを調整し直してVer 1.01にマイナーアップ。
 * 2010.11.08　Ver1.1に差し替え。footer.phpのCopyright部分の修正と、loop.php/sidebar.phpに補足コメント追加、license.txt追加。
 * 2010.11.11　Ver1.1のsidebar.phpにコーディングミスがあり、修正しました。実質はVer1.101な感じですが、そのままVer1.1に上書きしちゃいました。
-* 010.11.18　Ver1.2に差し替え。style.css内、.pagelink {overflow: hidden;→overflow: auto;に変更（ページ下部のテキストリンクが見えなくなっちゃうから）の他、何ヶ所か修正。他PHPファイルも数ヶ所にコメント追加。
+* 2010.11.18　Ver1.2に差し替え。style.css内、.pagelink {overflow: hidden;→overflow: auto;に変更（ページ下部のテキストリンクが見えなくなっちゃうから）の他、何ヶ所か修正。他PHPファイルも数ヶ所にコメント追加。
 * 2010.12.12　Ver1.3に差し替え。<!--paged-->を使ったページ分割使用時に、ページ送り用のリンクを表示させるタグ’wp_link_pages’を追記
 * 2010.12.13　縦リンクVerの’mypace custom vertical　1.0′配布開始
 * 2010.12.14　「archive.phpがあった方がいい」という貴重なご意見をいただき、Ver1.4と縦リンク版Ver1.1の配布開始。同時に、不要ソースの削除やコメントの一部修正等。
