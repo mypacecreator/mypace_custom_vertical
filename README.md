@@ -38,8 +38,9 @@ WordPress日本語版 3.4～3.5.1
 * 404.php
 * functions.php
 * screenshot.png
-* img/blog_top.jpg
-
+* img/headerimg.jpg
+* img/nav_bg.png
+* img/nav_bg_on.png
 
 ##当バージョンでの変更箇所（XHTML版：mypace custom Vertical 1.7）
 
